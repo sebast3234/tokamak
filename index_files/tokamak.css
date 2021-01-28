@@ -152,7 +152,9 @@ html.dark-mode{
 html.dark-mode img{
     filter: invert(100%);
 }
-
+html.dark-mode .fb-comments{
+    filter: invert(100%);
+}
 
 #header {
 				margin:-15px;
